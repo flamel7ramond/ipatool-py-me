@@ -50,7 +50,7 @@ Old versions must be downloaded together with `iTunes Server`. You can get `iTun
 
 After setting up the server, you can run this tool to download a specific version
 ```
-python3 main.py lookup -b com.touchingapp.potatsolite -c JP download -s http://127.0.0.1:9000 --appVerId 833889087
+python3 F:\Downloads\Compressed\ipatool-py-master\ipatool-py-master\main.py lookup -b com.netflix.Netflix -c JP download -s http://127.0.0.1:9000 --appVerId 838033742
 ```
 
 ### Get History Ver (usually used together with JSON)
