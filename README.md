@@ -79,6 +79,8 @@ For each command you can use `--json` switch to get result of command in JSON
 python3 main.py --json lookup -b com.touchingapp.potatsolite -c JP --get-verid
 python3 main.py --json lookup -b com.touchingapp.potatsolite -c JP historyver -e APPLE_EMAIL -p APPLE_PWD
 ```
+### To Check VerID
+-> https://tools.lancely.tech/apple/app-search?country=cn&query=filmic%20pro
 
 ## Development
 
