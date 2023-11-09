@@ -82,11 +82,14 @@ python3 main.py --json lookup -b com.touchingapp.potatsolite -c JP historyver -e
 ### To Check VerID
 -> https://tools.lancely.tech/apple/app-search?country=cn&query=filmic%20pro
 (it look like the site is down.)
+
 -> https://armconverter.com/decryptedappstore/us/WalletApp
 ```
-Go on Decrypted App Store on a desktop -> Search the app you want -> Right click anywhere and press Inspect then go to the Network tab at the top of the browser dev tools -> Press the clock icon on the app you want -> Site will make an API call getting all of the version numbers alongside their build numbers that will appear in the devtools Network tab.
-
-Saved me so many times when downgrading apps.
+Go on Decrypted App Store on a desktop
+-> Search the app you want
+-> Right click anywhere and press Inspect then go to the Network tab at the top of the browser dev tools
+-> Press the clock icon on the app you want
+-> Site will make an API call getting all of the version numbers alongside their build numbers that will appear in the devtools Network tab.
 ```
 
 Saved me so many times when downgrading apps.
